@@ -1,6 +1,14 @@
-### Welcome to my Github!
+# Welcome to my Github!
 
 [![Header](https://github.com/ygordev/ygordev/blob/main/ygorlima-github-banner.png "Header")](https://laboratoriodebits.com.br/)
+
+<p align='center'>
+<a href="https://instagram.com/ygor.dev"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://laboratoriodebits.com.br"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/web.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/ywml10"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
+## ✒️Blog & Writing 
 
 
 <!--
