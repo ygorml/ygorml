@@ -18,7 +18,7 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
 ### 📰  Blog Posts
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
 
-### 💻  What I am currently/done working on
+## 💻  What I am currently/done working on
 - Flutter (study projects) 🚀
   - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
   - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
@@ -27,7 +27,7 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
 - Design/Motion Design 🚀
   - N/A
 
-### 📫  Where to find me
+## 📫  Where to find me
 - [E-mail](mailto:admin@laboratoriodebits.com.br)
 - [Facebook](https://facebook.com/ywml10)
 - [Instagram](https://instagram.com/ygor.dev)
