@@ -9,8 +9,8 @@
 <a href="https://facebook.com/ywml10"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-## What do I do?
-I'm currently working as a Brazilian Navy Officer, first lieutenant. Currently involved in planning and electronics maintenance. As side hustle, i like to build mobile apps (Flutter SDK) and develop solutions to day-to-day problems, using tools like Python and Arduino. Aditicionally, I got some skills on Graphics Design, using Illustrator, Photoshop and After Effects (Motion Design). Those skills helps me at UX/UI design and creating social media content and advertising.
+## 💼 What do I do?
+I'm currently working as a Brazilian Navy Officer, first lieutenant. Currently involved in planning and electronics maintenance. As side hustle, i like to build mobile apps (Flutter SDK) and develop solutions to day-to-day problems, using tools like Python and Arduino. Aditicionally, I got some skills on Graphics Design, using Illustrator, Photoshop and After Effects (Motion Design). Those skills helps me at UX/UI design, creating social media content and advertising.
 
 ## ✒️ Blog & Writing 
 I started a project called 'Laboratório de Bits', where I write about Electronics and Computer Programming to newbies, using easy-to-understand language and easy-to-consume content. I'm also accepting suggestions about content.
@@ -19,9 +19,9 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
 
 ### 💻  What I am currently/done working on
-- Flutter 🚀
-  - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API.
-  - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists.
+- Flutter (study projects) 🚀
+  - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
+  - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
 - Python 🚀
   - 43Plotter: A complex tool to receive ADS-B data, decode and plot in a local saved map, using Python libraries.
 - Design/Motion Design 🚀
