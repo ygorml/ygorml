@@ -24,7 +24,7 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
   - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
   - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
 - Python 🚀
-  - LabBits Criptocurrency: A simple blockchain-based system
+  - [LabBits (Criptocurrency)](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
   - 43Plotter: A complex tool to receive ADS-B data, decode and plot in a local saved map, using Python libraries.
 - Design/Motion Design 🚀
   - N/A
