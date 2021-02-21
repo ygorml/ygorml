@@ -18,6 +18,7 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
 ### 📰  Blog Posts
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
 - [Integrais e Derivadas com Python](https://laboratoriodebits.com.br/integrais-e-derivadas-com-python-saiba-como/)
+- [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
 
 ## 💻  What I am currently/done working on
 - Flutter (study projects) 🚀
