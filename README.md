@@ -31,7 +31,6 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
 - [Descubra os 17 melhores sites para aprender programação](https://laboratoriodebits.com.br/8-melhores-sites-para-aprender-programacao/)
 - [O que é Arduino?](https://laboratoriodebits.com.br/o-que-e-arduino/)
 - [Introdução ao Raspberry Pi](https://laboratoriodebits.com.br/o-que-e-o-raspberry-pi/)
-- [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
 
 ## 💻  What I am currently/done working on
 - Flutter (study projects) 🚀
