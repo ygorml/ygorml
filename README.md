@@ -12,6 +12,13 @@
 ## 💼 What do I do?
 I'm currently working as a Brazilian Navy Officer, First Lieutenant (LTJG). Currently involved in planning and electronics maintenance. As side hustle, I like to build mobile apps (Flutter SDK) and develop solutions to day-to-day problems, using tools like Python and Arduino. Aditicionally, I got some skills on Graphics Design, using Illustrator, Photoshop and After Effects (Motion Design). Those skills helps me at UX/UI design, creating social media content and advertising.
 
+## 💻 Repos
+- [Python Projects](https://github.com/ygordev/Python)
+- [Flutter Projects](https://github.com/ygordev/Flutter)
+- [C Projects](https://github.com/ygordev/C)
+- [Javascript Projects](https://github.com/ygordev/JavaScript)
+- [URI Challenges](https://github.com/ygordev/URI)
+
 ## ✒️ Blog & Writing 
 I started a project called 'Laboratório de Bits', where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. Suggestions about content are ALWAYS welcome! 😃
 
