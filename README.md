@@ -4,7 +4,7 @@
 
 <p align='center'>
   <u>Links</u><br><br>
-<a href="https://instagram.com/ygor.dev"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/colt7r"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://laboratoriodebits.com.br"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/web.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/ywml10"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
 </p>
@@ -13,11 +13,17 @@
 I'm currently working as a Brazilian Navy Officer, First Lieutenant (LTJG). Currently involved in planning and electronics maintenance. As side hustle, I like to build mobile apps (Flutter SDK) and develop solutions to day-to-day problems, using tools like Python and Arduino. Aditicionally, I got some skills on Graphics Design, using Illustrator, Photoshop and After Effects (Motion Design). Those skills helps me at UX/UI design, creating social media content and advertising.
 
 ## ✒️ Blog & Writing 
-I started a project called 'Laboratório de Bits', where I write about Electronics and Computer Programming to newbies (and engineers), using easy-to-understand language and easy-to-consume content. I'm also accepting suggestions about content.
+I started a project called 'Laboratório de Bits', where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. Suggestions about content are ALWAYS welcome! 😃
 
 ### 📰  Blog Posts
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
 - [Integrais e Derivadas com Python](https://laboratoriodebits.com.br/integrais-e-derivadas-com-python-saiba-como/)
+- [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
+- [Como Criar Uma Aplicação Blockchain Do Zero Com Python em 8 Passos](https://laboratoriodebits.com.br/como-criar-uma-aplicacao-blockchain-do-zero-com-python/)
+- [Orientação à Objetos: Entenda de uma vez por todas em apenas 8 minutos](https://laboratoriodebits.com.br/orientacao-a-objetos-tudo-o-que-voce-precisa-saber/)
+- [Descubra os 17 melhores sites para aprender programação](https://laboratoriodebits.com.br/8-melhores-sites-para-aprender-programacao/)
+- [O que é Arduino?](https://laboratoriodebits.com.br/o-que-e-arduino/)
+- [Introdução ao Raspberry Pi](https://laboratoriodebits.com.br/o-que-e-o-raspberry-pi/)
 - [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
 
 ## 💻  What I am currently/done working on
@@ -25,9 +31,9 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
   - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
   - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
 - Python 🚀
-  - [LabBits (Criptocurrency)](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
-  - ADS-B Stats: A complex tool to receive ADS-B data, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
-- Design/Motion Design 🚀
+  - [Blockchain-based Project](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
+  - ADS-B Stats: A complex tool to receive ADS-B data via RTL-SDR + Raspberry Pi, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
+- Electronics 🚀
   - N/A
 
 ## 📫  Where to find me
