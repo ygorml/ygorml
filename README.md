@@ -10,19 +10,21 @@
 </p>
 
 ## 💼 What do I do?
-I'm currently working as a Brazilian Navy Officer, First Lieutenant (LTJG). Currently involved in planning and electronics maintenance. As side hustle, I like to build mobile apps (Flutter SDK) and develop solutions to day-to-day problems, using tools like Python and Arduino. Aditicionally, I got some skills on Graphics Design, using Illustrator, Photoshop and After Effects (Motion Design). Those skills helps me at UX/UI design, creating social media content and advertising.
+I'm currently working as a Brazilian Navy Officer, rank First Lieutenant (LTJG). Currently involved in Planning and Electronics maintenance. As side hustle, I like to build mobile apps (Flutter SDK) and develop solutions to day-to-day problems, using tools like Python, Arduino and Raspberry Pi. Aditicionally, I got some skills on Graphics Design, using Illustrator, Photoshop and After Effects (Motion Design). Those skills helps me at UX/UI design, creating social media content and advertising.
 
 ## 💻 Repos
 - [Python Projects](https://github.com/ygordev/Python)
 - [Flutter Projects](https://github.com/ygordev/Flutter)
 - [C Projects](https://github.com/ygordev/C)
 - [Javascript Projects](https://github.com/ygordev/JavaScript)
-- [URI Challenges](https://github.com/ygordev/URI)
+- [URI Challenges Answers](https://github.com/ygordev/URI)
+- [HackerRank Challenges Answers](https://github.com/ygordev/#)
 
 ## ✒️ Blog & Writing 
 I started a project called 'Laboratório de Bits', where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. Suggestions about content are ALWAYS welcome! 😃
 
 ### 📰  Blog Posts
+**Portuguese**
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
 - [Integrais e Derivadas com Python](https://laboratoriodebits.com.br/integrais-e-derivadas-com-python-saiba-como/)
 - [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
@@ -33,6 +35,7 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
 - [Introdução ao Raspberry Pi](https://laboratoriodebits.com.br/o-que-e-o-raspberry-pi/)
 
 ## 💻  What I am currently/done working on
+- C/C++
 - Flutter (study projects) 🚀
   - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
   - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
