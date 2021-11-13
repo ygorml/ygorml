@@ -15,6 +15,8 @@ I am currently working as Brazilian Navy Officer, ranked as First Lieutenant (LT
 
 I recently started my studies in Data Science and Artificial Intelligence, where I hope to create robust solutions, always striving for technical rigor and precision, which are mine characteristics.
 
+My credentials include a Post-degree in Software Engineering and I'm graduated in Naval Sciences with Electronics Emphasys from the Escola Naval, the higher education institution of the Brazilian Navy. 
+
 **Background in**: Python, Electronics and Naval Operations Planning.
 
 ## 💻  What I am currently/done working on
