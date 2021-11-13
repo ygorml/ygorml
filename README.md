@@ -14,6 +14,22 @@ I am currently working as Brazilian Navy Officer, ranked as First Lieutenant (LT
 
 I recently started my studies in Data Science and Artificial Intelligence, where I hope to create robust solutions, always striving for technical rigor and precision, which are mine characteristics.
 
+## 💻  What I am currently/done working on
+- Data Science: 
+  - [Airbnb analysis of Vancouver city 🇨🇦](#): 
+- Artificial Intelligence: N/A
+- C/C++: 
+  - [Radar Clutter Atenuation Calculator](https://github.com/ygordev/C/blob/main/calculaAtenuacaoClutter.c): Calcutes how much we should attenuate a radar clutter signal to detect a certain target
+  - [CriptoML](https://github.com/ygordev/C/blob/main/CriptoML.c): A study proprietary algorithm of criptography developed in C
+- Flutter:
+  - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
+  - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
+- Python
+  - [Radar Signal Generator](https://github.com/ygordev/Electronics/blob/main/Gr%C3%A1fico_Pulso_Radar_Duty_Cycle.ipynb)
+  - [Blockchain-based Project](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
+  - ADS-B Stats: A complex tool to receive ADS-B data via RTL-SDR + Raspberry Pi, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
+- Electronics: N/A
+
 ## 💻 Github Repositories
 
 **Knowledge Area**
@@ -45,22 +61,6 @@ I'm also writing at my blog 'Laboratório de Bits', where I write about Data Sci
 - [Descubra os 17 melhores sites para aprender programação](https://laboratoriodebits.com.br/8-melhores-sites-para-aprender-programacao/)
 - [O que é Arduino?](https://laboratoriodebits.com.br/o-que-e-arduino/)
 - [Introdução ao Raspberry Pi](https://laboratoriodebits.com.br/o-que-e-o-raspberry-pi/)
-
-## 💻  What I am currently/done working on
-- Data Science: 
-  - [Airbnb analysis of Vancouver city 🇨🇦](#): 
-- Artificial Intelligence: N/A
-- C/C++: 
-  - Radar Clutter Atenuation Calculator: Calcutes how much we should attenuate a radar clutter signal to detect a certain target
-  - CriptoML: A study proprietary algorithm of criptography developed in C
-- Flutter:
-  - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
-  - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
-- Python
-  - [Radar Signal Generator](#)
-  - [Blockchain-based Project](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
-  - ADS-B Stats: A complex tool to receive ADS-B data via RTL-SDR + Raspberry Pi, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
-- Electronics: N/A
 
 ## 📫  Where to find me
 - [E-mail](mailto:admin@laboratoriodebits.com.br)
