@@ -51,7 +51,8 @@ I'm also writing at my blog 'Laboratório de Bits', where I write about Data Sci
   - [Airbnb analysis of Vancouver city 🇨🇦](#): 
 - Artificial Intelligence: N/A
 - C/C++: 
-  - Radar Clutter Atenuation Calculator
+  - Radar Clutter Atenuation Calculator: Calcutes how much we should attenuate a radar clutter signal to detect a certain target
+  - CriptoML: A study proprietary algorithm of criptography developed in C
 - Flutter:
   - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
   - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
