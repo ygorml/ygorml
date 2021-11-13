@@ -10,18 +10,28 @@
 </p>
 
 ## 💼 What do I do?
-I'm currently working as a Brazilian Navy Officer, rank First Lieutenant (LTJG). Currently involved in Planning and Electronics maintenance. As side hustle, I like to build mobile apps (Flutter SDK) and develop solutions to day-to-day problems, using tools like Python, Arduino and Raspberry Pi. Aditicionally, I got some skills on Graphics Design, using Illustrator, Photoshop and After Effects (Motion Design). Those skills helps me at UX/UI design, creating social media content and advertising.
+I'm currently working as a Brazilian Navy Officer, First Lieutenant (LTJG) rank. Currently involved in Planning and Electronics maintenance. As side-hustle, I build mobile apps using Flutter SDK and I develop solutions to day-to-day problems, using tools like Python, Arduino and Raspberry Pi. Aditicionally, I got some skills on Graphics Design, using Illustrator, Photoshop and After Effects (Motion Design). Those skills helps me at UX/UI design, creating Social Media content and Advertising.
 
-## 💻 Repos
+## 💻 Github Repositories
+
+**Knowledge Area**
+- [Data Science Projects](https://github.com/ygordev/Data-Science)
+- [Artificial Intelligence](https://github.com/ygordev/Artificial-Intelligence)
+- [Electronics](https://github.com/ygordev/Electronics)
+- [Mobile Development](https://github.com/ygordev/Mobile-Development)
+
+**Programming Languages**
 - [Python Projects](https://github.com/ygordev/Python)
 - [Flutter Projects](https://github.com/ygordev/Flutter)
 - [C Projects](https://github.com/ygordev/C)
 - [Javascript Projects](https://github.com/ygordev/JavaScript)
+
+**Challenges**
 - [URI Challenges Answers](https://github.com/ygordev/URI)
 - [HackerRank Challenges Answers](https://github.com/ygordev/#)
 
 ## ✒️ Blog & Writing 
-I started a project called 'Laboratório de Bits', where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. Suggestions about content are ALWAYS welcome! 😃
+I'm also writing at my blog 'Laboratório de Bits', where I write about Data Science, Artificial Intelligence, Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. Suggestions about content are **ALWAYS** welcome! 😃
 
 ### 📰  Blog Posts
 **Portuguese**
@@ -35,15 +45,19 @@ I started a project called 'Laboratório de Bits', where I write about Electroni
 - [Introdução ao Raspberry Pi](https://laboratoriodebits.com.br/o-que-e-o-raspberry-pi/)
 
 ## 💻  What I am currently/done working on
-- C/C++
-- Flutter (study projects) 🚀
+- Data Science: 
+  - [Airbnb analysis of Vancouver city 🇨🇦](#): 
+- Artificial Intelligence: N/A
+- C/C++: 
+  - Radar Clutter Atenuation Calculator
+- Flutter:
   - Conversor de Moedas: Mobile app developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
   - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
-- Python 🚀
+- Python
+  - [Radar Signal Generator](#)
   - [Blockchain-based Project](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
   - ADS-B Stats: A complex tool to receive ADS-B data via RTL-SDR + Raspberry Pi, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
-- Electronics 🚀
-  - N/A
+- Electronics: N/A
 
 ## 📫  Where to find me
 - [E-mail](mailto:admin@laboratoriodebits.com.br)
