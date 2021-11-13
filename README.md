@@ -55,7 +55,7 @@ I recently started my studies in Data Science and Artificial Intelligence, where
 I'm also writing at my blog 'Laboratório de Bits', where I write about Data Science, Artificial Intelligence, Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. Suggestions about content are **ALWAYS** welcome! 😃
 
 ### 📰  Blog Posts
-**Portuguese**
+**Portuguese**<br>
 *Computer Science*
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
 - [Orientação à Objetos: Entenda de uma vez por todas em apenas 8 minutos](https://laboratoriodebits.com.br/orientacao-a-objetos-tudo-o-que-voce-precisa-saber/)
