@@ -5,8 +5,9 @@
 <p align='center'>
   <u>Links</u><br><br>
 <a href="https://instagram.com/colt7r"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://laboratoriodebits.com.br"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/web.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ygor-moreira-lima-ba9096195/"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/ywml10"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://laboratoriodebits.com.br"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/link.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ## 💼 What do I do?
@@ -53,14 +54,19 @@ I'm also writing at my blog 'Laboratório de Bits', where I write about Data Sci
 
 ### 📰  Blog Posts
 **Portuguese**
+*Computer Science*
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
-- [Integrais e Derivadas com Python](https://laboratoriodebits.com.br/integrais-e-derivadas-com-python-saiba-como/)
-- [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
-- [Como Criar Uma Aplicação Blockchain Do Zero Com Python em 8 Passos](https://laboratoriodebits.com.br/como-criar-uma-aplicacao-blockchain-do-zero-com-python/)
 - [Orientação à Objetos: Entenda de uma vez por todas em apenas 8 minutos](https://laboratoriodebits.com.br/orientacao-a-objetos-tudo-o-que-voce-precisa-saber/)
 - [Descubra os 17 melhores sites para aprender programação](https://laboratoriodebits.com.br/8-melhores-sites-para-aprender-programacao/)
+
+*Python*
+- [Como Criar Uma Aplicação Blockchain Do Zero Com Python em 8 Passos](https://laboratoriodebits.com.br/como-criar-uma-aplicacao-blockchain-do-zero-com-python/)
+- [Integrais e Derivadas com Python](https://laboratoriodebits.com.br/integrais-e-derivadas-com-python-saiba-como/)
+
+*Electronics*
 - [O que é Arduino?](https://laboratoriodebits.com.br/o-que-e-arduino/)
 - [Introdução ao Raspberry Pi](https://laboratoriodebits.com.br/o-que-e-o-raspberry-pi/)
+- [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
 
 ## 📫  Where to find me
 - [E-mail](mailto:admin@laboratoriodebits.com.br)
