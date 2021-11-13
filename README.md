@@ -11,7 +11,11 @@
 </p>
 
 ## 💼 What do I do?
-I am currently working as Brazilian Navy Officer, ranked as First Lieutenant (LTJG). Actually involved in Naval Operations Planning and Electronics Maintenance. In addition, I build mobile apps using Flutter SDK and develop solutions to everyday problems using tools like Python, Arduino and Raspberry Pi. Furthermore, I acquired some skills in Graphic Design, using Illustrator, Photoshop and After Effects (Motion Design). These skills help me in UX/UI design, social media content creation and advertising.
+I am currently working as Brazilian Navy Officer, ranked as First Lieutenant (LTJG). Actually involved in Naval Operations Planning and Electronics Maintenance. 
+
+I combine analytical skills, ability to work in team environments, and attention to details. Former in charge of Division of Planning and Electronics Maintenance from "Fragata Liberal", where I was responsible for a thirty-two men team.
+
+In addition, I build mobile apps using Flutter SDK and develop solutions to everyday problems using tools like Python, Arduino and Raspberry Pi. Furthermore, I acquired some skills in Graphic Design, using Illustrator, Photoshop and After Effects (Motion Design). These skills help me in UX/UI design, social media content creation and advertising.
 
 I recently started my studies in Data Science and Artificial Intelligence, where I hope to create robust solutions, always striving for technical rigor and precision, which are mine characteristics.
 
