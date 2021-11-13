@@ -15,6 +15,8 @@ I am currently working as Brazilian Navy Officer, ranked as First Lieutenant (LT
 
 I recently started my studies in Data Science and Artificial Intelligence, where I hope to create robust solutions, always striving for technical rigor and precision, which are mine characteristics.
 
+**Background in**: Python, Electronics and Naval Operations Planning.
+
 ## 💻  What I am currently/done working on
 - Data Science: 
   - [Airbnb analysis of Vancouver city 🇨🇦](#): 
@@ -31,7 +33,7 @@ I recently started my studies in Data Science and Artificial Intelligence, where
   - ADS-B Stats: A complex tool to receive ADS-B data via RTL-SDR + Raspberry Pi, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
 - Electronics: N/A
 
-## 💻 Github Repositories
+## 💻 Projects (Github Repositories)
 
 **Knowledge Area**
 - [Data Science Projects](https://github.com/ygordev/Data-Science)
