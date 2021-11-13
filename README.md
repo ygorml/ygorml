@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-[![Header](https://github.com/ygordev/ygordev/blob/main/ygorlima-github-banner.png "Header")](https://laboratoriodebits.com.br/)
+[![Header](https://laboratoriodebits.com.br/wp-content/uploads/2021/11/@colt7r.png "Header")](https://laboratoriodebits.com.br/)
 
 <p align='center'>
   <u>Links</u><br><br>
