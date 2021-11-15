@@ -25,7 +25,7 @@ My credentials include a Post-degree in Software Engineering and I'm graduated i
 
 ## 💻  What I am currently/done working on
 - Data Science: 
-  - [Airbnb analysis of Vancouver city 🇨🇦](#): 
+  - [Airbnb analysis of Vancouver city 🇨🇦](https://github.com/ygordev/Data-Science/blob/main/10_YgorLima_tech_Projeto_Analisando_os_dados_do_Airbnb_Vancouver.ipynb) 
 - Artificial Intelligence: Currently working on an Autonomous Ship Project, using Computacional Vision, Embarked Electronics and a lot more. 
 - C/C++: 
   - [Radar Clutter Atenuation Calculator](https://github.com/ygordev/C/blob/main/calculaAtenuacaoClutter.c): Calcutes how much we should attenuate a radar clutter signal to detect a certain target
