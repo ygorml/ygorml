@@ -65,8 +65,8 @@ For Data Science and Artificial Intelligence articles, you can check it out on m
 Suggestions about content are **ALWAYS** welcome! 😃
 
 ### 📰  Blog Posts
-**Portuguese**<br>
-* Data Science*
+**Portuguese**<br><br>
+*Data Science*
 - [Análise Exploratória dos Dados do Airbnb - Vancouver, Canadá](https://bit.ly/3oMSRV9)
 
 *Computer Science*
