@@ -5,7 +5,7 @@
 <p align='center'>
   <u>Links</u><br><br>
 <a href="https://instagram.com/colt7r"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ygor-moreira-lima-ba9096195/"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ygormoreiralima"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/ywml10"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@ygormoreiralima"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/medium.png?raw=true"></a>&nbsp;&nbsp;
 </p>
