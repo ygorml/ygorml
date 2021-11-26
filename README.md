@@ -84,7 +84,7 @@ Suggestions about content are **ALWAYS** welcome! 😃
 - [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
 
 ## 📫  Where to find me
-- [E-mail](mailto:admin@laboratoriodebits.com.br)
+- [E-mail](mailto:contato@ygorlima.tech)
 - [Facebook](https://facebook.com/ywml10)
 - [Instagram](https://instagram.com/colt7r)
 - [Blog](https://www.laboratoriodebits.com.br/)
