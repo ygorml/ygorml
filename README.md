@@ -69,6 +69,7 @@ Suggestions about content are **ALWAYS** welcome! 😃
 **Portuguese**<br><br>
 *Data Science*
 - [Análise Exploratória dos Dados do Airbnb - Vancouver, Canadá](https://bit.ly/3oMSRV9)
+- [Panorama da COVID-19 no Brasil e no Mundo](https://bit.ly/31g2Jis)
 
 *Computer Science*
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
