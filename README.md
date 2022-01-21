@@ -17,7 +17,7 @@ I combine analytical skills, ability to work in team environments, and attention
 
 In addition, I build mobile apps using Flutter SDK and develop solutions to everyday problems using tools like Python, Arduino and Raspberry Pi. Furthermore, I acquired some skills in Graphic Design, using Illustrator, Photoshop and After Effects (Motion Design). These skills help me in UX/UI design, social media content creation and advertising.
 
-I recently started my studies in Data Science and Artificial Intelligence, where I hope to create robust solutions, always striving for technical rigor and precision, which are mine characteristics.
+I'm currently focusing on improving my Data Science and Artificial Intelligence skills, creating robust solutions and always striving for technical rigor and precision, which are mine characteristics.
 
 My credentials include a Postgraduate degree in Software Engineering and I'm graduated in Naval Sciences with Electronics Emphasys from the Escola Naval, the higher education institution of the Brazilian Navy. 
 
