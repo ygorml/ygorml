@@ -71,6 +71,7 @@ Suggestions about content are **ALWAYS** welcome! 😃
 *Data Science*
 - [Análise Exploratória dos Dados do Airbnb - Vancouver, Canadá](https://bit.ly/3oMSRV9)
 - [Panorama da COVID-19 no Brasil e no Mundo](https://bit.ly/31g2Jis)
+- [Detecção de Fraudes em Cartão de Crédito: Construindo modelos de Machine Learning](https://medium.com/ygorlimahome/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%A3o-de-cr%C3%A9dito-construindo-modelos-de-machine-learning-3484a39afee6)
 
 *Computer Science*
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
