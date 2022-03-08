@@ -55,7 +55,6 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-
 ## 💻 Projects (Github Repositories)
 
 **Knowledge Area**
@@ -109,11 +108,15 @@ Suggestions about content are **ALWAYS** welcome! 😃
 - [Blog](https://www.laboratoriodebits.com.br/)
 - [Medium](https://www.ygorml.org/)
 
+## My stats
+
+<img align="left" alt="Ygor Lima Stats" src="https://github-readme-stats.vercel.app/api?username=ygordev&show_icons=true&hide_border=true" />
+
+<!--
 ### Want to support me? Buy me a coffee!
 Help-me with a coffee, feedbacks or ideas. I'm completly open to hear and help. <br>
 👉  Click on the coffee mug to support <a href="https://www.buymeacoffee.com/ygordev"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 
-<!--
 **ygordev/ygordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
