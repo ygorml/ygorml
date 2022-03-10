@@ -74,7 +74,7 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 - [HackerRank Challenges Answers](https://github.com/ygordev/#)
 
 ## ✒️ Blog & Writing 
-I'm also writing at my blog 'Laboratório de Bits', where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. 
+I'm also writing at my blog [Laboratório de Bits](https://laboratoriodebits.com.br), where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. 
 
 For Data Science and Artificial Intelligence articles, you can check it out on my Medium <a href="https://medium.com/@ygormoreiralima">here</a>.
 
