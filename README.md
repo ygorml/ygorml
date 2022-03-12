@@ -15,17 +15,17 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ygordev&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=2D333B"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygordev&layout=compact&langs_count=7&theme=react&border_radius=8&hide_border=true&bg_color=2D333B"/>
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=Python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=Git&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=Anaconda&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft-excel&logoColor=white)
+  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=Latex&logoColor=white)
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=Vim&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=Visual-studio-code&logoColor=white)
 </div>
 
 ## 💼 What do I do?
