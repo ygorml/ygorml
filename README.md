@@ -50,7 +50,8 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 
 ---
 
-- Artificial Intelligence: Currently working on an Autonomous Ship Project (EWAS), using Computacional Vision, Embarked Electronics and a lot more. 
+- Artificial Intelligence:
+  - [EWAS - Electronic Warfare Autonomous Ship](https://github.com/ygordev/EWAS): Computacional Vision, Embarked Electronics and a lot more. 
 
 ---
 
