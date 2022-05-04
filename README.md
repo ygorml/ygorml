@@ -1,6 +1,6 @@
-# Welcome to my Github!
+# Ygor Lima - Data Science & Artificial Intelligence
 
-[![Header](https://laboratoriodebits.com.br/wp-content/uploads/2022/01/banner-2.png "Header")](https://laboratoriodebits.com.br/)
+<p align='center'><img height="200" src="https://github.com/ygordev/ygordev/blob/main/medium%20logo.png"></p>
 
 <p align='center'>
   <u>Links</u><br><br>
