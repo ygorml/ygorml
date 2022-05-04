@@ -95,7 +95,7 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 - [HackerRank Challenges Answers](https://github.com/ygordev/#)
 
 ## ✒️ Blog & Writing 
-I'm also writing at my blog [Laboratório de Bits](https://laboratoriodebits.com.br), where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. 
+<!-- I'm also writing at my blog [Laboratório de Bits](https://laboratoriodebits.com.br), where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. -->
 
 For Data Science and Artificial Intelligence articles, you can check it out on my Medium <a href="https://medium.com/@ygormoreiralima">here</a>.
 
@@ -107,7 +107,7 @@ Suggestions about content are **ALWAYS** welcome! 😃
 - [Análise Exploratória dos Dados do Airbnb - Vancouver, Canadá](https://bit.ly/3oMSRV9)
 - [Panorama da COVID-19 no Brasil e no Mundo](https://bit.ly/31g2Jis)
 - [Detecção de Fraudes em Cartão de Crédito: Construindo modelos de Machine Learning](https://medium.com/ygorlimahome/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%A3o-de-cr%C3%A9dito-construindo-modelos-de-machine-learning-3484a39afee6)
-
+<!--
 *Computer Science*
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
 - [Orientação à Objetos: Entenda de uma vez por todas em apenas 8 minutos](https://laboratoriodebits.com.br/orientacao-a-objetos-tudo-o-que-voce-precisa-saber/)
@@ -121,13 +121,13 @@ Suggestions about content are **ALWAYS** welcome! 😃
 - [O que é Arduino?](https://laboratoriodebits.com.br/o-que-e-arduino/)
 - [Introdução ao Raspberry Pi](https://laboratoriodebits.com.br/o-que-e-o-raspberry-pi/)
 - [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
-
+-->
 ## 📫  Where to find me
 - [E-mail](mailto:contato@ygorml.org)
 - [Facebook](https://facebook.com/ywml10)
 - [Instagram](https://instagram.com/colt7r)
-- [Blog](https://www.laboratoriodebits.com.br/)
 - [Medium](https://www.ygorml.org/)
+<!-- - [Blog](https://www.laboratoriodebits.com.br/) -->
 
 <!--
 ### Want to support me? Buy me a coffee!
