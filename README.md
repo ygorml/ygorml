@@ -93,7 +93,8 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 
 **Challenges**
 - [URI Challenges Answers](https://github.com/ygordev/URI)
-- [HackerRank Challenges Answers](https://github.com/ygordev/#)
+- [HackerRank Challenges Answers](https://github.com/ygordev/hackerrank)
+- [LeetCode](https://github.com/ygordev/leetcode)
 
 ## ✒️ Blog & Writing 
 <!-- I'm also writing at my blog [Laboratório de Bits](https://laboratoriodebits.com.br), where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. -->
