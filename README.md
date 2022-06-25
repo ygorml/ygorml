@@ -1,4 +1,4 @@
-# Ygor Lima - Data Science & Artificial Intelligence
+# Ygor Moreira Lima - Data Science & Artificial Intelligence
 
 <p align='center'><img height="200" src="https://github.com/ygordev/ygordev/blob/main/medium%20logo.png"></p>
 
