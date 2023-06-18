@@ -126,11 +126,11 @@ Suggestions about content are **ALWAYS** welcome! 😃
 - [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
 -->
 ## 📫  Where to find me
-- [E-mail](mailto:contato@ygorml.org)
+- [E-mail](mailto:admin@datawarfare.org)
 - [Facebook](https://facebook.com/ywml10)
-- [Instagram](https://instagram.com/colt7r)
-- [Medium](https://www.ygorml.org/)
-<!-- - [Blog](https://www.laboratoriodebits.com.br/) -->
+- [Instagram](https://instagram.com/ygorml)
+- [Blog](https://www.datawarfare.org/)
+<!-- - [Medium](https://www.ygorml.org/) -->
 
 <!--
 ### Want to support me? Buy me a coffee!
