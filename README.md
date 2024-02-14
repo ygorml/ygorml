@@ -30,7 +30,7 @@
 </div>
 
 ## 💼 What do I do?
-I am currently working as Brazilian Navy Officer, ranked as First Lieutenant (LTJG). Actually involved in Naval Operations Planning and Electronics Maintenance. 
+I am currently working as Brazilian Navy Officer, ranked as Lieutenant (LT). Actually involved in Naval Operations Planning and Electronics Maintenance. 
 
 I combine analytical skills, ability to work in team environments, and attention to details. Former in charge of Division of Planning and Electronics Maintenance from "Fragata Liberal", where I was responsible for a thirty-two men team.
 
@@ -38,9 +38,9 @@ In addition, I build mobile apps using Flutter SDK and develop solutions to ever
 
 I'm currently focusing on improving my Data Science and Artificial Intelligence skills, creating robust solutions and always striving for technical rigor and precision, which are mine characteristics.
 
-My credentials include a Postgraduate degree in Software Engineering and I'm graduated in Naval Sciences with Electronics Emphasys from the Escola Naval, the higher education institution of the Brazilian Navy. 
+My credentials include a Postgraduate degree in Software Engineering and I'm graduated in Naval Sciences with Electronics Emphasys from the "Escola Naval", the higher education institution of the Brazilian Navy. 
 
-**Background in**: Python, Electronics and Naval Operations Planning.
+**Background in**: Python, C, Electronics and Naval Operations Planning.
 
 ## 💻  What I am currently/done working on
 - Data Science: 
