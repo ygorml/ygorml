@@ -7,7 +7,7 @@
 <a href="https://instagram.com/ygorml"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ygormoreiralima"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/ywml10"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://datawarfare.org"><img height="30" src="https://github.com/ygordev/ygordev/blob/main/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://ygor.ml"><img height="30" width="30" src="https://github.com/ygordev/ygordev/blob/main/001-blog.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ## My stats
