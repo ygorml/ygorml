@@ -40,13 +40,13 @@ I'm currently focusing on improving my Data Science and Artificial Intelligence 
 
 My credentials include a Postgraduate degree in Software Engineering and I'm graduated in Naval Sciences with Electronics Emphasys from the "Escola Naval", the higher education institution of the Brazilian Navy. 
 
-**Background in**: Python, C, Electronics and Naval Operations Planning.
+**Background in**: AI, Python, C, Electronics and Naval Operations Planning.
 
 ## 💻  What I am currently/done working on
 - Data Science: 
   - [Airbnb analysis of Vancouver city 🇨🇦](https://github.com/ygordev/Data-Science/blob/main/10_YgorLima_tech_Projeto_Analisando_os_dados_do_Airbnb_Vancouver.ipynb) (Portuguese 🇧🇷)
   - [Panorama da COVID-19 no Brasil e no Mundo](https://colab.research.google.com/github/ygordev/Data-Science/blob/main/YgorLima_tech_Panorama_do_COVID_19_no_Brasil.ipynb) (Portuguese 🇧🇷)
-  - [Detecção de Fraudes em Cartão de Crédito - Machine Learning Models](https://bit.ly/3ASmJVW) (Portuguese 🇧🇷)
+  - [Detecção de Fraudes em Cartão de Crédito - Machine Learning Models]([https://bit.ly/3ASmJVW](https://colab.research.google.com/github/ygordev/Data-Science/blob/main/YgorLima_Projeto_Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%A3o_de_Cr%C3%A9dito.ipynb)) (Portuguese 🇧🇷)
   - [Churn Prediction para uma Empresa de Telecomunicações](https://colab.research.google.com/github/ygordev/Data-Science/blob/main/YgorML_org_Churn_Prediction_para_uma_empresa_de_Telecomunicac%CC%A7o%CC%83es_10MAR_v1.ipynb) (Portuguese 🇧🇷)
 
 ---
@@ -96,8 +96,9 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 - [HackerRank Challenges Answers](https://github.com/ygordev/hackerrank)
 - [LeetCode](https://github.com/ygordev/leetcode)
 
+<!--
 ## ✒️ Blog & Writing 
-<!-- I'm also writing at my blog [Laboratório de Bits](https://laboratoriodebits.com.br), where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content. -->
+I'm also writing at my blog [Laboratório de Bits](https://laboratoriodebits.com.br), where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content.
 
 For Data Science and Artificial Intelligence articles, you can check it out on my Medium <a href="https://medium.com/@ygormoreiralima">here</a>.
 
@@ -110,7 +111,7 @@ Suggestions about content are **ALWAYS** welcome! 😃
 - [Panorama da COVID-19 no Brasil e no Mundo](https://bit.ly/31g2Jis)
 - [Detecção de Fraudes em Cartão de Crédito: Construindo modelos de Machine Learning](https://medium.com/ygorlimahome/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%A3o-de-cr%C3%A9dito-construindo-modelos-de-machine-learning-3484a39afee6)
 - [Churn Prediction para uma empresa de Telecomunicações: Aplicando o CRISP-DM para construção de modelos de Machine Learning](https://ygorml.org/churn-prediction-para-uma-empresa-de-telecomunica%C3%A7%C3%B5es-aplicando-o-crisp-dm-para-constru%C3%A7%C3%A3o-de-a278fe2ad18c)
-<!--
+
 *Computer Science*
 - [O que são algoritmos?](https://laboratoriodebits.com.br/o-que-e-algoritmo/)
 - [Orientação à Objetos: Entenda de uma vez por todas em apenas 8 minutos](https://laboratoriodebits.com.br/orientacao-a-objetos-tudo-o-que-voce-precisa-saber/)
@@ -126,10 +127,10 @@ Suggestions about content are **ALWAYS** welcome! 😃
 - [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
 -->
 ## 📫  Where to find me
-- [E-mail](mailto:admin@datawarfare.org)
+- [E-mail](mailto:eu@ygor.ml)
 - [Facebook](https://facebook.com/ywml10)
 - [Instagram](https://instagram.com/ygorml)
-- [Blog](https://www.datawarfare.org/)
+- [Blog](https://ygor.ml/artigos/)
 <!-- - [Medium](https://www.ygorml.org/) -->
 
 <!--
