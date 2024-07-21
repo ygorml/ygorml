@@ -52,13 +52,13 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 ---
 
 - Artificial Intelligence:
-  - [EWAS - Electronic Warfare Autonomous Ship](https://github.com/ygordev/EWAS): Computacional Vision, Embarked Electronics and a lot more. 
+  - [EWAS - Electronic Warfare Autonomous Ship](https://github.com/ygorml/EWAS): Computacional Vision, Embarked Electronics and a lot more. 
 
 ---
 
 - C/C++: 
-  - [Radar Clutter Atenuation Calculator](https://github.com/ygordev/C/blob/main/calculaAtenuacaoClutter.c): Calcutes how much we should attenuate a radar clutter signal to detect a certain target
-  - [CriptoML](https://github.com/ygordev/C/blob/main/CriptoML.c): A study proprietary algorithm of criptography developed in C
+  - [Radar Clutter Atenuation Calculator](https://github.com/ygorml/C/blob/main/calculaAtenuacaoClutter.c): Calcutes how much we should attenuate a radar clutter signal to detect a certain target
+  - [CriptoML](https://github.com/ygorml/C/blob/main/CriptoML.c): A study proprietary algorithm of criptography developed in C
 
 ---
 
@@ -69,7 +69,7 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 ---
 
 - Python
-  - [Radar Signal Generator](https://github.com/ygordev/Electronics/blob/main/Gr%C3%A1fico_Pulso_Radar_Duty_Cycle.ipynb)
+  - [Radar Signal Generator](https://github.com/ygorml/Electronics/blob/main/Gr%C3%A1fico_Pulso_Radar_Duty_Cycle.ipynb)
   - [Blockchain-based Project](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
   - ADS-B Stats: A complex tool to receive ADS-B data via RTL-SDR + Raspberry Pi, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
 
@@ -80,16 +80,16 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 ## 💻 Projects (Github Repositories)
 
 **Knowledge Area**
-- [Data Science Projects](https://github.com/ygordev/Data-Science)
-- [Artificial Intelligence](https://github.com/ygordev/Artificial-Intelligence)
-- [Electronics](https://github.com/ygordev/Electronics)
-- [Mobile Development](https://github.com/ygordev/Mobile-Development)
+- [Data Science Projects](https://github.com/ygorml/Data-Science)
+- [Artificial Intelligence](https://github.com/ygorml/Artificial-Intelligence)
+- [Electronics](https://github.com/ygorml/Electronics)
+- [Mobile Development](https://github.com/ygorml/Mobile-Development)
 
 **Programming Languages**
-- [Python Projects](https://github.com/ygordev/Python)
-- [Flutter Projects](https://github.com/ygordev/Flutter)
-- [C Projects](https://github.com/ygordev/C)
-- [Javascript Projects](https://github.com/ygordev/JavaScript)
+- [Python Projects](https://github.com/ygorml/Python)
+- [Flutter Projects](https://github.com/ygorml/Flutter)
+- [C Projects](https://github.com/ygorml/C)
+- [Javascript Projects](https://github.com/ygorml/JavaScript)
 
 **Challenges**
 - [URI Challenges Answers](https://github.com/ygordev/URI)
