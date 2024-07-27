@@ -1,6 +1,7 @@
 # Ygor Moreira Lima - Data Science & Artificial Intelligence
-
-<p align='center'><img height="200" src="https://github.com/ygordev/ygordev/blob/main/medium%20logo.png"></p>
+<br>
+<br>
+<p align='center'><img height="50" src="https://github.com/ygorml/ygorml/blob/main/ass-grey.png"></p>
 
 <p align='center'>
   <u>Links</u><br><br>
