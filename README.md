@@ -1,4 +1,4 @@
-# Ygor Moreira Lima - Data Science & Artificial Intelligence
+# Artificial Intelligence, Software Engineering & Data Science
 <br>
 <br>
 <p align='center'><img height="50" src="https://github.com/ygorml/ygorml/blob/main/ass-grey.png"></p>
