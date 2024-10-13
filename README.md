@@ -1,4 +1,4 @@
-# Artificial Intelligence, Software Engineering & Data Science
+# Artificial Intelligence, Electronics, Software Engineering & Data Science
 <br>
 <br>
 <p align='center'><img height="50" src="https://github.com/ygorml/ygorml/blob/main/ass-grey.png"></p>
@@ -8,7 +8,7 @@
 <a href="https://instagram.com/ygorml"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ygormoreiralima"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/ywml10"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://ygor.ml"><img height="30" width="30" src="https://github.com/ygorml/ygorml/blob/main/001-blog.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://ygor.ml/artigos/"><img height="30" width="30" src="https://github.com/ygorml/ygorml/blob/main/001-blog.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ## My stats
@@ -33,13 +33,13 @@
 ## 💼 What do I do?
 I am currently working as Brazilian Navy Officer, ranked as Lieutenant (LT). Actually involved in Naval Operations Planning and Electronics Maintenance. 
 
-I combine analytical skills, ability to work in team environments, and attention to details. Former in charge of Division of Planning and Electronics Maintenance from "Fragata Liberal", where I was responsible for a thirty-two men team.
+I combine analytical skills, ability to work in team environments, and attention to details. Former in charge of Division of Planning and Electronics Maintenance of BNS "Fragata Liberal" and "Fragata Independência", where I was responsible for a thirty-two men team.
 
-In addition, I build mobile apps using Flutter SDK and develop solutions to everyday problems using tools like Python, Arduino and Raspberry Pi. Furthermore, I acquired some skills in Graphic Design, using Illustrator, Photoshop and After Effects (Motion Design). These skills help me in UX/UI design, social media content creation and advertising.
+In addition, I build mobile apps using Flutter SDK and develop solutions to everyday problems using tools like Python, Arduino, Raspberry Pi and Software-Defined Radios. Furthermore, I acquired some skills in Graphic Design, using Illustrator, Photoshop and After Effects (Motion Design). These skills help me in UX/UI design, social media content creation and advertising.
 
 I'm currently focusing on improving my Data Science and Artificial Intelligence skills, creating robust solutions and always striving for technical rigor and precision, which are mine characteristics.
 
-My credentials include a Postgraduate degree in Software Engineering and I'm graduated in Naval Sciences with Electronics Emphasys from the "Escola Naval", the higher education institution of the Brazilian Navy. 
+My credentials include a Postgraduate degree in Software Engineering, Data Science & Big Data Analytics and I'm graduated in Naval Sciences with Electronics Emphasys from the "Escola Naval", the higher education institution of the Brazilian Navy and BSc. Degree in Computer Science.
 
 **Background in**: AI, Python, C, Electronics and Naval Operations Planning.
 
@@ -53,7 +53,7 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 ---
 
 - Artificial Intelligence:
-  - [EWAS - Electronic Warfare Autonomous Ship](https://github.com/ygorml/EWAS): Computacional Vision, Embarked Electronics and a lot more. 
+  - [EWAS - Electronic Warfare Autonomous Ship](https://github.com/ygorml/EWAS): Computational Vision, Embarked Electronics and a lot more. 
 
 ---
 
@@ -93,9 +93,9 @@ My credentials include a Postgraduate degree in Software Engineering and I'm gra
 - [Javascript Projects](https://github.com/ygorml/JavaScript)
 
 **Challenges**
-- [URI Challenges Answers](https://github.com/ygordev/URI)
-- [HackerRank Challenges Answers](https://github.com/ygordev/hackerrank)
-- [LeetCode](https://github.com/ygordev/leetcode)
+- [URI Challenges Answers](https://github.com/ygorml/URI)
+- [HackerRank Challenges Answers](https://github.com/ygorml/hackerrank)
+- [LeetCode](https://github.com/ygorml/leetcode)
 
 <!--
 ## ✒️ Blog & Writing 
