@@ -1,4 +1,4 @@
-# Artificial Intelligence, Electronics, Software Engineering & Data Science
+# Artificial Intelligence, Electronics
 <br>
 <br>
 <p align='center'><img height="50" src="https://github.com/ygorml/ygorml/blob/main/ass-grey.png"></p>
