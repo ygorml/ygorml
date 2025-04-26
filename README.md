@@ -31,17 +31,19 @@
 </div>
 
 ## 💼 What do I do?
-I am currently working as Brazilian Navy Officer, ranked as Lieutenant (LT). Actually involved in Naval Operations Planning and Electronics Maintenance. 
+I am currently serving as a Lieutenant in the Brazilian Navy.
 
-I combine analytical skills, ability to work in team environments, and attention to details. Former in charge of Division of Planning and Electronics Maintenance of BNS "Fragata Liberal" and "Fragata Independência", where I was responsible for a thirty-two men team.
+I combine strong analytical skills with a collaborative work style and keen attention to detail. I previously led the Operations and Electronics Division aboard the Frigate Liberal, where I was responsible for managing and mentoring a team of 32 personnel.
 
-In addition, I build mobile apps using Flutter SDK and develop solutions to everyday problems using tools like Python, Arduino, Raspberry Pi and Software-Defined Radios. Furthermore, I acquired some skills in Graphic Design, using Illustrator, Photoshop and After Effects (Motion Design). These skills help me in UX/UI design, social media content creation and advertising.
+I graduated with Academic Merit honors from the Advanced Electronics Course for Officers (Brazilian Navy), achieving an average grade above 9.5/10.
 
-I'm currently focusing on improving my Data Science and Artificial Intelligence skills, creating robust solutions and always striving for technical rigor and precision, which are mine characteristics.
+Since an early age, I have been passionate about Computing. At 15, I discovered a security vulnerability in an open-source software project (CVE-2008-5063), which was later published and recognized by several institutions, including the U.S. National Institute of Standards and Technology (NIST).
 
-My credentials include a Postgraduate degree in Software Engineering, Data Science & Big Data Analytics and I'm graduated in Naval Sciences with Electronics Emphasys from the "Escola Naval", the higher education institution of the Brazilian Navy and BSc. Degree in Computer Science.
+I am currently expanding my expertise in Data Science and Artificial Intelligence, with a focus on delivering technically rigorous and high-precision projects.
 
-**Background in**: AI, Python, C, Electronics and Naval Operations Planning.
+My academic background includes a Postgraduate degree in Software Engineering, a specialization in Data Science & Big Data Analytics, and a B.Sc. in Computer Science. As part of my education, I also graduated in Naval Sciences with an emphasis on Electronics from the Escola Naval, the Brazilian Navy's higher education institution.
+
+**Technical Skills**: AI, Python, C/C++, Electronics.
 
 ## 💻  What I am currently/done working on
 - Data Science: 
