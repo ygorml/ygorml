@@ -8,7 +8,7 @@
 <a href="https://instagram.com/ygorml"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ygormoreiralima"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/ywml10"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://ygor.ml/artigos/"><img height="30" width="30" src="https://github.com/ygorml/ygorml/blob/main/001-blog.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://artigos.ygor.ml/"><img height="30" width="30" src="https://github.com/ygorml/ygorml/blob/main/001-blog.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ## My stats
