@@ -131,9 +131,9 @@ Suggestions about content are **ALWAYS** welcome! 😃
 -->
 ## 📫  Where to find me
 - [E-mail](mailto:eu@ygor.ml)
-- [Facebook](https://facebook.com/ywml10)
-- [Instagram](https://instagram.com/ygorml)
-- [Blog](https://ygor.ml/artigos/)
+- [Linkedin](https://www.linkedin.com/in/ygormoreiralima/)
+- [Blog](https://artigos.ygor.ml/)
+- [Personal Website](https://ygor.ml)
 <!-- - [Medium](https://www.ygorml.org/) -->
 
 <!--
