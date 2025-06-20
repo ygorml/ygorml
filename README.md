@@ -33,7 +33,7 @@
 ## 💼 What do I do?
 I am currently serving as a Lieutenant in the Brazilian Navy.
 
-I combine strong analytical skills with a collaborative work style and keen attention to detail. I previously led the Operations and Electronics Division aboard the Frigate Liberal, where I was responsible for managing and mentoring a team of 32 personnel.
+I combine strong analytical skills with a collaborative work style and keen attention to detail. I previously led the Operations and Electronics Division aboard the Frigate Liberal and Frigate Independência, where I was responsible for managing and mentoring a team of 32 personnel.
 
 I graduated with Academic Merit honors from the Electronics Course for Officers (Brazilian Navy), achieving an average grade above 9.5/10.
 
