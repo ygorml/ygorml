@@ -46,7 +46,7 @@ My academic background includes a Postgraduate degree in Software Engineering, a
 **Technical Skills**: AI, Python, C/C++, Electronics.
 
 ## 💻  What I am currently/done working on
-- Data Science: 
+- Machine Learning & Data Science: 
   - [Airbnb analysis of Vancouver city 🇨🇦](https://github.com/ygorml/Data-Science/tree/main/Ana%CC%81lise-dos-dados-do-Airbnb-Vancouver) (Portuguese 🇧🇷)
   - [Panorama da COVID-19 no Brasil e no Mundo](https://github.com/ygorml/Panorama-Covid-19-Brasil/blob/main/YgorLima_Projeto_Panorama_do_COVID_19_no_Brasil.ipynb) (Portuguese 🇧🇷)
   - [Detecção de Fraudes em Cartão de Crédito - Machine Learning Models](https://colab.research.google.com/github/ygordev/Data-Science/blob/main/YgorLima_Projeto_Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%A3o_de_Cr%C3%A9dito.ipynb) (Portuguese 🇧🇷)
