@@ -47,8 +47,8 @@ My academic background includes a Postgraduate degree in Software Engineering, a
 
 ## 💻  What I am currently/done working on
 - Data Science: 
-  - [Airbnb analysis of Vancouver city 🇨🇦](https://github.com/ygordev/Data-Science/blob/main/10_YgorLima_tech_Projeto_Analisando_os_dados_do_Airbnb_Vancouver.ipynb) (Portuguese 🇧🇷)
-  - [Panorama da COVID-19 no Brasil e no Mundo](https://colab.research.google.com/github/ygordev/Data-Science/blob/main/YgorLima_tech_Panorama_do_COVID_19_no_Brasil.ipynb) (Portuguese 🇧🇷)
+  - [Airbnb analysis of Vancouver city 🇨🇦](https://github.com/ygorml/Data-Science/tree/main/Ana%CC%81lise-dos-dados-do-Airbnb-Vancouver) (Portuguese 🇧🇷)
+  - [Panorama da COVID-19 no Brasil e no Mundo](https://github.com/ygorml/Panorama-Covid-19-Brasil/blob/main/YgorLima_Projeto_Panorama_do_COVID_19_no_Brasil.ipynb) (Portuguese 🇧🇷)
   - [Detecção de Fraudes em Cartão de Crédito - Machine Learning Models](https://colab.research.google.com/github/ygordev/Data-Science/blob/main/YgorLima_Projeto_Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%A3o_de_Cr%C3%A9dito.ipynb) (Portuguese 🇧🇷)
   - [Churn Prediction para uma Empresa de Telecomunicações](https://colab.research.google.com/drive/1xXaJKp63ogBWt0zEHkIQe8HK8coRrx-H?usp=sharing) (Portuguese 🇧🇷)
 
