@@ -1,4 +1,4 @@
-# Artificial Intelligence, Electronics
+# Ygor W. S. Moreira Lima - Software Engineering and Artificial Intelligence
 <br>
 <br>
 <p align='center'><img height="50" src="https://github.com/ygorml/ygorml/blob/main/ass-grey.png"></p>
@@ -60,8 +60,8 @@ My academic background includes a Postgraduate degree in Software Engineering, a
 ---
 
 - C/C++: 
-  - [Radar Clutter Atenuation Calculator](https://github.com/ygorml/C/blob/main/calculaAtenuacaoClutter.c): Calcutes how much we should attenuate a radar clutter signal to detect a certain target
-  - [CriptoML](https://github.com/ygorml/C/blob/main/CriptoML.c): A study proprietary algorithm of criptography developed in C
+  - [Radar Clutter Atenuation Calculator](https://github.com/ygorml/radar_utils): Calcutes how much we should attenuate a radar clutter signal to detect a certain target
+  - [CriptoML](https://github.com/ygorml/criptoML): A study proprietary algorithm of criptography developed in C
 
 ---
 
