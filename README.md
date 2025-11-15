@@ -31,73 +31,56 @@
 </div>
 
 ## 💼 What do I do?
-I am currently serving as a Lieutenant in the Brazilian Navy.
+Currently pursuing a Master’s degree in Computer Science (Software Engineering) at the Universidade Federal Fluminense (UFF), focused on advancing research in Agentic Artificial Intelligence for Software Engineering. Passionate about combining engineering rigor, innovation, and leadership to solve complex real-world problems.
 
-I combine strong analytical skills with a collaborative work style and keen attention to detail. I previously led the Operations and Electronics Division aboard the Frigate Liberal and Frigate Independência, where I was responsible for managing and mentoring a team of 32 personnel.
+Experienced Lieutenant in the Brazilian Navy with a proven record of leading multidisciplinary teams and delivering high-impact operational and technical results. Skilled in project management, team leadership, and software and systems engineering, with a solid foundation in Electronics.
 
-I graduated with Academic Merit honors from the Electronics Course for Officers (Brazilian Navy), achieving an average grade above 9.5/10.
+Led the Operations and Electronics Division aboard the Frigate Liberal, managing and mentoring a 32-person team responsible for mission-critical systems. Recognized for academic excellence, earning Academic Merit honors with a GPA above 9.5/10 in the Electronics Course for Officers.
 
-Since an early age, I have been passionate about Computing. At 15, I discovered a security vulnerability in an open-source software project (CVE-2008-5063), which was later published and recognized by several institutions, including the U.S. National Institute of Standards and Technology (NIST).
+A lifelong technologist — at age 15, discovered and responsibly disclosed a major security vulnerability (CVE-2008-5063), later acknowledged by the U.S. National Institute of Standards and Technology (NIST).
 
-I am currently expanding my expertise in Data Science and Artificial Intelligence, with a focus on delivering technically rigorous and high-precision projects.
+**Academic Background:**
+- M.Sc. in Computer Science (Software Engineering) — Fluminense Federal University (in progress)
+- B.Sc. in Computer Science
+- Postgraduate degrees in Software Engineering and Data Science
+- B.Sc. in Naval Sciences (Electronics emphasis) — Escola Naval (Brazilian Navy’s higher education institution)
 
-My academic background includes a Postgraduate degree in Software Engineering, a specialization in Data Science & Big Data Analytics, and a B.Sc. in Computer Science. As part of my education, I also graduated in Naval Sciences with an emphasis on Electronics from the Escola Naval, the Brazilian Navy's higher education institution.
-
-**Technical Skills**: AI, Python, C/C++, Electronics.
+**Core Competencies:**
+Leadership | Software Engineering | Artificial Intelligence | Data Science | Python | C/C++ | Electronics | Project Management
 
 ## 💻  What I am currently/done working on
-- Machine Learning & Data Science: 
-  - [Airbnb analysis of Vancouver city 🇨🇦](https://github.com/ygorml/Data-Science/tree/main/Ana%CC%81lise-dos-dados-do-Airbnb-Vancouver) (Portuguese 🇧🇷)
-  - [Panorama da COVID-19 no Brasil e no Mundo](https://github.com/ygorml/Panorama-Covid-19-Brasil/blob/main/YgorLima_Projeto_Panorama_do_COVID_19_no_Brasil.ipynb) (Portuguese 🇧🇷)
-  - [Detecção de Fraudes em Cartão de Crédito - Machine Learning Models](https://colab.research.google.com/github/ygordev/Data-Science/blob/main/YgorLima_Projeto_Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%A3o_de_Cr%C3%A9dito.ipynb) (Portuguese 🇧🇷)
-  - [Churn Prediction para uma Empresa de Telecomunicações](https://colab.research.google.com/drive/1xXaJKp63ogBWt0zEHkIQe8HK8coRrx-H?usp=sharing) (Portuguese 🇧🇷)
-
----
-
-- Artificial Intelligence:
-  - [EWAS - Electronic Warfare Autonomous Ship](https://github.com/ygorml/EWAS): Computational Vision, Embarked Electronics and a lot more. 
-
----
-
 - C/C++: 
   - [Radar Clutter Atenuation Calculator](https://github.com/ygorml/radar_utils): Calcutes how much we should attenuate a radar clutter signal to detect a certain target
   - [CriptoML](https://github.com/ygorml/criptoML): A study proprietary algorithm of criptography developed in C
-
----
-
-- Flutter:
-  - Conversor de Moedas: Mobile App developed using Flutter to convert currencies between BRL, USD and EUR via API. 95% done, will be deployed to Play Store soon.
-  - Lista de Tarefas: A simple mobile app, using Flutter too, to manage daily to-do lists. 70% done, will be deployed to Play Store soon.
-
----
 
 - Python
   - [Radar Signal Generator](https://github.com/ygorml/Electronics/blob/main/Gr%C3%A1fico_Pulso_Radar_Duty_Cycle.ipynb)
   - [Blockchain-based Project](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
   - ADS-B Stats: A complex tool to receive ADS-B data via RTL-SDR + Raspberry Pi, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
 
----
+- Artificial Intelligence (Machine Learning and Deep Learning):
+  - Soon... 
 
 - Electronics: 
 
-## 💻 Projects (Github Repositories)
+## 🧩 Challenges
+- [LeetCode](https://leetcode.com/u/ygorml/)
+- [CodeWars](https://www.codewars.com/users/colt7r)
+- [HackerRank Challenges Answers](https://www.hackerrank.com/profile/wmlima)
+
+## 💻 My projects by type and knowledge area
 
 **Knowledge Area**
-- [Data Science Projects](https://github.com/ygorml/Data-Science)
-- [Artificial Intelligence](https://github.com/ygorml/Artificial-Intelligence)
-- [Electronics](https://github.com/ygorml/Electronics)
-- [Mobile Development](https://github.com/ygorml/Mobile-Development)
+- [Data Science Projects](https://github.com/ygorml/ygorml/Data-Science.md)
+- [Artificial Intelligence](https://github.com/ygorml/ygorml/Artificial-Intelligence.md)
+- [Electronics](https://github.com/ygorml/ygorml/Electronics.md)
+- [Mobile Development](https://github.com/ygorml/ygorml/Mobile-Development.md)
 
 **Programming Languages**
-- [Python Projects](https://github.com/ygorml/Python)
-- [Flutter Projects](https://github.com/ygorml/Flutter)
-- [C Projects](https://github.com/ygorml/C)
-- [Javascript Projects](https://github.com/ygorml/JavaScript)
-
-**Challenges**
-- [URI Challenges Answers](https://github.com/ygorml/URI)
-- [HackerRank Challenges Answers](https://github.com/ygorml/hackerrank)
-- [LeetCode](https://github.com/ygorml/leetcode)
+- [Python Projects](https://github.com/ygorml/ygorml/Python.md)
+- [Flutter Projects](https://github.com/ygorml/ygorml/Flutter.md)
+- [C Projects](https://github.com/ygorml/ygorml/C.md)
+- [Javascript Projects](https://github.com/ygorml/ygorml/JavaScript.md)
 
 <!--
 ## ✒️ Blog & Writing 
@@ -132,9 +115,8 @@ Suggestions about content are **ALWAYS** welcome! 😃
 ## 📫  Where to find me
 - [E-mail](mailto:eu@ygor.ml)
 - [Linkedin](https://www.linkedin.com/in/ygormoreiralima/)
-- [Blog](https://artigos.ygor.ml/)
 - [Personal Website](https://ygor.ml)
-<!-- - [Medium](https://www.ygorml.org/) -->
+- [Blog @ Medium](https://artigos.ygor.ml/)
 
 <!--
 ### Want to support me? Buy me a coffee!
