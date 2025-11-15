@@ -1,14 +1,14 @@
 # Ygor W. S. Moreira Lima - Software Engineering and Artificial Intelligence
 <br>
 <br>
-<p align='center'><img height="50" src="https://github.com/ygorml/ygorml/blob/main/ass-grey.png"></p>
+<p align='center'><img height="50" src="https://github.com/ygorml/ygorml/blob/main/images/ass-grey.png"></p>
 
 <p align='center'>
   <u>Links</u><br><br>
-<a href="https://instagram.com/ygorml" target="_blank"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ygormoreiralima" target="_blank"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://facebook.com/ywml10" target="_blank"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://artigos.ygor.ml/" target="_blank"><img height="30" width="30" src="https://github.com/ygorml/ygorml/blob/main/001-blog.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ygorml" target="_blank"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ygormoreiralima" target="_blank"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/ywml10" target="_blank"><img height="30" src="https://github.com/ygorml/ygorml/blob/main/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://artigos.ygor.ml/" target="_blank"><img height="30" width="30" src="https://github.com/ygorml/ygorml/blob/main/images/001-blog.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ## My stats
