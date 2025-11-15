@@ -71,16 +71,16 @@ Leadership | Software Engineering | Artificial Intelligence | Data Science | Pyt
 ## 💻 My projects by type and knowledge area
 
 **Knowledge Area**
-- [Data Science Projects](https://github.com/ygorml/ygorml/Data-Science.md)
-- [Artificial Intelligence](https://github.com/ygorml/ygorml/Artificial-Intelligence.md)
-- [Electronics](https://github.com/ygorml/ygorml/Electronics.md)
-- [Mobile Development](https://github.com/ygorml/ygorml/Mobile-Development.md)
+- [Data Science Projects](https://github.com/ygorml/ygorml/blob/main/Data-Science.md)
+- [Artificial Intelligence](https://github.com/ygorml/ygorml/blob/main/Artificial-Intelligence.md)
+- [Electronics](https://github.com/ygorml/ygorml/blob/main/Electronics.md)
+- [Mobile Development (Flutter, Swift)](https://github.com/ygorml/ygorml/blob/main/Mobile-Development.md)
 
 **Programming Languages**
-- [Python Projects](https://github.com/ygorml/ygorml/Python.md)
-- [Flutter Projects](https://github.com/ygorml/ygorml/Flutter.md)
-- [C Projects](https://github.com/ygorml/ygorml/C.md)
-- [Javascript Projects](https://github.com/ygorml/ygorml/JavaScript.md)
+- [Python Projects](https://github.com/ygorml/ygorml/blob/main/Python.md)
+- [Flutter Projects](https://github.com/ygorml/ygorml/blob/main/Flutter.md)
+- [C Projects](https://github.com/ygorml/ygorml/blob/main/C.md)
+- [Javascript Projects](https://github.com/ygorml/ygorml/blob/main/JavaScript.md)
 
 <!--
 ## ✒️ Blog & Writing 
