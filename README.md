@@ -11,9 +11,6 @@
 
 ## My stats
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ygorml&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=2D333B"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorml&layout=compact&langs_count=7&theme=react&border_radius=8&hide_border=true&bg_color=2D333B"/>
-
   ![](https://komarev.com/ghpvc/?username=ygorml&color=072448)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=Python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)
