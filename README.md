@@ -42,20 +42,9 @@ A lifelong technologist — at age 15, discovered and responsibly disclosed a ma
 Leadership | Software Engineering | Artificial Intelligence | Data Science | Python | C/C++ | Electronics | Project Management
 
 ## 💻  What I am currently/done working on
-- C/C++: 
-  - [Radar Clutter Atenuation Calculator](https://github.com/ygorml/radar_utils): Calcutes how much we should attenuate a radar clutter signal to detect a certain target
-  - [CriptoML](https://github.com/ygorml/criptoML): A study proprietary algorithm of criptography developed in C
+Coming soon...
 
-- Python
-  - [Radar Signal Generator](https://github.com/ygorml/Electronics/blob/main/Gr%C3%A1fico_Pulso_Radar_Duty_Cycle.ipynb)
-  - [Blockchain-based Project](https://colab.research.google.com/drive/1hRYdMY4uuIg2ilXc4MxzyqI0UwMYftCe?usp=sharing): A simple blockchain-based system
-  - ADS-B Stats: A complex tool to receive ADS-B data via RTL-SDR + Raspberry Pi, decode and plot in a local saved map, using Python libraries. As a future feature, I will work on some data science related stuff, using those infos.
-
-- Artificial Intelligence (Machine Learning and Deep Learning):
-  - Soon... 
-
-- Electronics: 
-
+<!--
 ## 🧩 Challenges
 - [LeetCode](https://leetcode.com/u/ygorml/)
 - [CodeWars](https://www.codewars.com/users/colt7r)
@@ -75,7 +64,6 @@ Leadership | Software Engineering | Artificial Intelligence | Data Science | Pyt
 - [C Projects](https://github.com/ygorml/ygorml/blob/main/C.md)
 - [Javascript Projects](https://github.com/ygorml/ygorml/blob/main/JavaScript.md)
 
-<!--
 ## ✒️ Blog & Writing 
 I'm also writing at my blog [Laboratório de Bits](https://laboratoriodebits.com.br), where I write about Electronics and Computer Programming, using easy-to-understand language and easy-to-consume content.
 
