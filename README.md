@@ -37,17 +37,16 @@
 ## 💼 What do I do?
 Currently pursuing a Master’s degree in Computer Science (Software Engineering) at the Universidade Federal Fluminense (UFF), focused on advancing research in Agentic Artificial Intelligence for Software Engineering. Passionate about combining engineering rigor, innovation, and leadership to solve complex real-world problems.
 
-Experienced Lieutenant in the Brazilian Navy with a proven record of leading multidisciplinary teams and delivering high-impact operational and technical results. Skilled in project management, team leadership, and software and systems engineering, with a solid foundation in Electronics.
+Experienced engineering leader with a proven record of leading multidisciplinary teams and delivering high-impact operational and technical results. Skilled in project management, team leadership, and software and systems engineering, with a solid foundation in Electronics.
 
-Led the Operations and Electronics Division aboard the Frigate Liberal, managing and mentoring a 32-person team responsible for mission-critical systems. Recognized for academic excellence, earning Academic Merit honors with a GPA above 9.5/10 in the Electronics Course for Officers.
+Led an Operations and Electronics Division, managing and mentoring a 32-person team responsible for mission-critical systems. Recognized for academic excellence, earning Academic Merit honors with a GPA above 9.5/10 in the Electronics program.
 
 A lifelong technologist — at age 15, discovered and responsibly disclosed a major security vulnerability (CVE-2008-5063), later acknowledged by the U.S. National Institute of Standards and Technology (NIST).
 
 **Academic Background:**
 - M.Sc. in Computer Science (Software Engineering) — Fluminense Federal University (in progress)
-- B.Sc. in Computer Science
 - Postgraduate degrees in Software Engineering and Data Science
-- B.Sc. in Naval Sciences (Electronics emphasis) — Escola Naval (Brazilian Navy’s higher education institution)
+- B.Sc. in Computer Science
 
 **Core Competencies:**
 Leadership | Software Engineering | Artificial Intelligence | Data Science | Python | C/C++ | Electronics | Project Management
