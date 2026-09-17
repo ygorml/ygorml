@@ -105,7 +105,7 @@ Suggestions about content are **ALWAYS** welcome! 😃
 - [O que é o RTL-SDR?](https://laboratoriodebits.com.br/o-que-e-o-rtl-sdr/)
 -->
 ## 📫  Where to find me
-- [E-mail](mailto:eu@ygor.ml)
+- [E-mail](https://mailhide.io/e/tZTacInn)
 - [Linkedin](https://www.linkedin.com/in/ygormoreiralima/)
 - [Personal Website](https://ygor.ml)
 
