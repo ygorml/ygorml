@@ -44,7 +44,7 @@ Led an Operations and Electronics Division, managing and mentoring a 32-person t
 A lifelong technologist — at age 15, discovered and responsibly disclosed a major security vulnerability (CVE-2008-5063), later acknowledged by the U.S. National Institute of Standards and Technology (NIST).
 
 **Academic Background:**
-- M.Sc. in Computer Science (Software Engineering) — Fluminense Federal University (in progress)
+- M.Sc. in Computer Science (Software Engineering) — Universidade Federal Fluminense (in progress)
 - Postgraduate degrees in Software Engineering and Data Science
 - B.Sc. in Computer Science
 
