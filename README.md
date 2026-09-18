@@ -9,8 +9,24 @@
 <a href="https://ygor.ml/" target="_blank"><img height="30" width="30" src="https://github.com/ygorml/ygorml/blob/main/images/001-blog.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-## My stats
+## Profile Views
 ![](https://komarev.com/ghpvc/?username=ygorml&color=072448) 
+
+## My stats
+<div align="center">
+  <h3>Commits</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ygorml&theme=nord&hide_border=true" alt="Estatísticas" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygorml&theme=nord" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ygorml&theme=nord" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygorml&theme=nord" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ygorml&theme=nord" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygorml&theme=nord" height="180em" />
+</div>
 
 ## Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
