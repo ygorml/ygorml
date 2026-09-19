@@ -21,11 +21,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygorml&theme=nord" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ygorml&theme=nord" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygorml&theme=nord" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ygorml&theme=nord" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygorml&theme=nord" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygorml&theme=nord_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ygorml&theme=nord_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygorml&theme=nord_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ygorml&theme=nord_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygorml&theme=nord_dark" height="180em" />
 </div>
 
 ## Stack
