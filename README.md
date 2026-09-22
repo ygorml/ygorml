@@ -10,7 +10,9 @@
 </p>
 
 ## Profile Views
-![](https://komarev.com/ghpvc/?username=ygorml&color=072448) 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ygorml&color=072448"/>
+</div>
 
 ## My stats
 <div align="center">
@@ -29,6 +31,8 @@
 </div>
 
 ## Stack
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
@@ -49,6 +53,8 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ## 💼 What do I do?
 Currently pursuing a Master’s degree in Computer Science (Software Engineering) at the Universidade Federal Fluminense (UFF), focused on advancing research in Agentic Artificial Intelligence for Software Engineering. Passionate about combining engineering rigor, innovation, and leadership to solve complex real-world problems.
