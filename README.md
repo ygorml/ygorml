@@ -10,9 +10,7 @@
 </p>
 
 ## Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ygorml&color=072448"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=ygorml&color=072448&v=2" />
 
 ## My stats
 <div align="center">
